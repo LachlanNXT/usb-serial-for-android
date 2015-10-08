@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lachlan\Documents\GitHub\usb-serial-for-android\usbSerialExamples\build\intermediates\exploded-aar\com.hoho.android\usbSerialForAndroid\0.2.0-SNAPSHOT\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e0c43e8192a628eeadee5f1b4fdc434d1665ad2f">
+        <dex dex="C:\Users\Lachlan\Documents\GitHub\usb-serial-for-android\usbSerialExamples\build\intermediates\pre-dexed\debug\classes-d8a092ae9f4e26a81f4a165f74b4fd8a382f8b46.jar" />
+    </item>
+
+</items>
